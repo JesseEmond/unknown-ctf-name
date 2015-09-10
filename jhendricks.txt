@@ -1,0 +1,41 @@
+frontend is at: 104.131.92.247
+
+user: jhendricks
+pass: oXwBJMtx3BJ5yKg
+
+Those are valid SSH creds.
+
+
+Running `set` to see env vars, see MAIL (learned about that var).
+
+cat /var/spool/mail/jhendricks:
+
+From carla@thenorth.com  Sat Sep  5 02:41:53 2015
+Return-Path: <carla@thenorth.com>
+X-Original-To: jhendricks@thenorth.com
+Delivered-To: jhendricks@thenorth.com
+Received: by mail3.thenorth.com
+  id B24C33FEA3; Sat,  5 Sep 2015 02:41:53 -0400 (EDT)
+  Date: Sat, 05 Sep 2015 02:41:53 -0400
+  To: jhendricks@thenorth.com
+  Subject: Info
+  MIME-Version: 1.0
+  Content-Type: text/plain; charset=us-ascii
+  Content-Transfer-Encoding: 7bit
+  Message-Id: <20150905064153.B24C33FEA3@thenorth.com>
+  From: carla@thenorth.com (carla)
+  Status: RO
+
+  Here are our servers. I'll keep you updated as we get more
+
+  10.132.106.223 - 104.236.251.33
+  10.132.3.229 - 45.55.179.181
+  10.132.170.147 - 45.55.183.167
+  10.132.114.141 - 45.55.47.192
+  10.132.34.120 - 104.131.109.3
+
+
+Could login to 45.55.47.192 with wscott:
+user: wscott
+pass: oTLhoRZ8JOIDhkD
+
