@@ -1,0 +1,27 @@
+starts at: http://104.236.74.251/
+
+personal site: http://104.236.74.251/~dglenn/
+see poems, go up a folder, see files: http://104.236.74.251/~dglenn/private/
+
+one of the keys: http://104.236.74.251/~dglenn/private/key.txt
+
+
+also, security notice here: http://104.236.74.251/mail/isn.html
+
+it tells us that we want to reach the *new* website (currently on the old one).
+
+it tells us that the new website with be on the internal network (good for us).
+
+it tells us that we'll need 5 keys to access the boss docs.
+
+
+
+change cookies so that accesslevel=2 (document.cookie="accesslevel=2";), get
+admin.
+
+
+address of new website: 104.131.92.247
+
+will need to combine keys here: http://104.236.74.251/~wscott/keys
+
+will access the boss dosc here: http://104.236.74.251/ (user bdupont)
