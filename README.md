@@ -2,6 +2,8 @@
 Note: try to do it yourself, it is a much more rewarding experience. See this as
 a last resort resource.
 
+This is just a WIP, I have only started the CTF.
+
 ## 1 - Start
 start at:
 `http://45.55.54.126/`
