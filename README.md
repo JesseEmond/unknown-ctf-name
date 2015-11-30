@@ -4,6 +4,8 @@ a last resort resource.
 
 This is just a WIP, I have only started the CTF.
 
+Update: Annnnnd it looks like the CTF is down now. Unfortunate, I wanted to come back to it. Will leave the repo for archiving purposes.
+
 ## 1 - Start
 start at:
 `http://45.55.54.126/`
